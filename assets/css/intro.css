@@ -1,0 +1,55 @@
+
+.intro {
+    background-image: url('../img/bg-constellation.svg');
+    background-position: center center;
+}
+
+.intro-text-content {
+    margin: 12rem auto 15rem 5rem;
+}
+
+.intro-title {
+    margin-bottom: 2.2rem;
+}
+
+.intro-text {
+    margin-bottom: 5rem;
+    line-height: 1.5;
+}
+
+.intro-img {
+    margin: 18rem 4rem 0 0;
+}
+
+
+.intro-btn {
+    text-transform: uppercase;
+    border: none;
+    padding: 1.5rem 3.6rem;
+    border-radius: 0.2rem;
+    font-weight: 800;
+    cursor: pointer;
+    font-size: 1.2rem;
+}
+
+.btn-black {
+    opacity: 1;
+    background-color: var(--dark-color);
+    color: var(--white-color);
+    transition: opacity 0.3s ease;
+}
+
+.btn-black:hover {
+    opacity: 0.9;
+}
+
+.btn-red {
+    background-color: var(--red-color);
+    color: var(--white-color);
+    margin-left: 1rem;
+}
+
+.btn-red:hover {
+    box-shadow: 0 0.1rem 1rem var(--red-color);
+    transition: 0.2s;
+}
