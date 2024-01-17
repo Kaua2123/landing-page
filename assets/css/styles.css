@@ -121,6 +121,14 @@ h3 {
         width: 40rem;
         margin-top: 2rem;
     }
+    
+    .meet-us-text-content {
+        margin: 8rem auto;
+    }
+
+    .flex {
+        margin: 8rem auto;
+    }
 
     .meet-us-contact {
         display: flex;
@@ -142,7 +150,11 @@ h3 {
     .logo-container {
         display: flex;
         flex-flow: column wrap;
-
+        justify-content: center;
         align-items: center;
+    }
+
+    .flex-footer {
+        justify-content: center;
     }
 }
