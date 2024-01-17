@@ -75,3 +75,74 @@ h3 {
     align-items: center;   
     gap: 20rem;
 }
+
+@media (max-width: 980px) {
+    .intro-btn {
+        width: 23rem;
+        margin: 0.8rem auto;
+    }
+}
+
+@media (max-width: 800px) {
+
+    .intro-text-content {
+        margin: 8rem auto;
+    }
+
+    .intro-title, .intro-text {
+        text-align: center;
+    }
+
+    .intro-btn {
+        display: flex;
+        flex-flow: column wrap;
+        justify-content: center;
+        align-items: center;
+        width: 40rem;
+        margin: 0.8rem auto;
+    }
+
+    .grid-intro-container {
+        grid-template-columns: 1fr;
+        gap: 0;
+    }
+
+    .intro-img {
+        margin: 0rem auto; 
+    }
+
+    .grid-features-container {
+        grid-template-columns: 1fr;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .input-contact {
+        width: 40rem;
+        margin-top: 2rem;
+    }
+
+    .meet-us-contact {
+        display: flex;
+        flex-flow: column wrap;
+        justify-content: center;
+        align-items: center;
+        width: 40rem;
+        margin: 4rem auto;
+    }
+
+    .meet-us-title, .meet-us-text, .meet-us-secondary-text {
+        text-align: center;
+    }
+
+    .footer-text {
+        text-align: center;
+    }
+
+    .logo-container {
+        display: flex;
+        flex-flow: column wrap;
+
+        align-items: center;
+    }
+}
