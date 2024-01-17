@@ -25,6 +25,22 @@ body {
     line-height: 1.2;
 }
 
+a {
+    text-decoration: none;
+}
+
+a:hover{
+    text-decoration: underline;
+}
+
+a:link {
+    color: var(--gray-color);
+}
+
+a:visited {
+    color: var(--gray-color);
+}
+
 img {
     width: 35rem;
 }

@@ -1,0 +1,41 @@
+.footer {
+    min-height: 24vh;
+    font-size: 1.4rem;
+}
+
+.logo {
+    width: 5rem;
+    height: 5rem;
+}
+
+.flex-footer {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-between;
+}
+
+.footer-text {
+    margin-top: 2rem;
+}
+
+.logo-container {
+    margin: 5rem 1rem;
+}
+
+.social-media-contact {
+    display: flex;
+    flex-flow:  column wrap;
+    margin: 6rem 3rem;
+}
+
+.social-icons {
+    width: 2rem;
+    height: 2rem;
+    cursor: pointer;
+    margin: 1rem;
+    margin-bottom: 3rem;
+}   
+
+.link {
+    margin: 0.4rem;
+}
