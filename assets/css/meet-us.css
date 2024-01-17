@@ -1,0 +1,72 @@
+.meet-us {
+    border-bottom: 0.1rem solid var(--dark-color);
+}
+
+.meet-us-text-content {
+    text-align: center;
+    margin-top: 10rem;
+}
+
+.meet-us-title {
+    margin-bottom: 2rem;
+}
+
+.meet-us-text {
+    margin-bottom: 8rem;
+}
+
+.flex {
+    display: flex;
+    flex-flow: row;
+    justify-content: center;
+}
+
+.video {
+    width: 80rem;
+    height: 44rem;
+    border-radius: 0.8rem;
+    background: linear-gradient(to top right, #1b2f4a, #192b43, #15243b, #0f1c2f, #0a1527);
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.8);
+}
+
+.icon-div {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    align-items: center;
+    border-radius: 100%;
+    width: 10rem;
+    height: 10rem;
+    background: linear-gradient(to top right, #fdfefa, #f3f3f5, #e4e5e9, #ccd1d6, #c4c7cc, #b7bac1, #b4b7be);
+    box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.8);
+    cursor: pointer;
+}
+
+.icon-video {
+    width: 2rem;
+    height: 2rem;
+}
+
+.meet-us-contact {
+    margin-top: 5rem;
+    margin-bottom: 10rem;
+}
+
+.input-contact {
+    display: block;
+    width: 25rem;
+    height: 5rem;
+    border: none;
+    border-radius: 0.2rem;
+    padding-left: 1.4rem;
+    outline: none;
+}
+
+.input-contact::placeholder {
+    font-size: 1.5rem;
+    color: var(--gray-color);
+}

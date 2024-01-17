@@ -8,6 +8,8 @@
 @font-face {
     font-family: Calvino;
     src: url('../fonts/Calvino-Grande-Variable-trial.ttf');
+    font-family: Heebo;
+    src: url('../fonts/Heebo-VariableFont_wght.ttf');
 }
 
 html {
@@ -17,7 +19,7 @@ html {
 body {
     background: rgb(35,38,56);
     background: linear-gradient(90deg, var(--black-color) 4%, rgba(2,2,8,1) 35%);
-    font-family: sans-serif;
+    font-family: Heebo;
     font-size: 2rem;
     color: var(--gray-color);
     line-height: 1.2;
@@ -34,15 +36,11 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-    font-size: 5rem;
+    font-size: 4.4rem;
 }
 
 h3 {
     font-family: sans-serif;
-}
-
-p {
-
 }
 
 .section {
