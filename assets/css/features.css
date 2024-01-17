@@ -1,0 +1,35 @@
+.features {
+    border-bottom: 0.1rem solid var(--dark-color);
+}
+
+.features-content {
+    margin: 12rem auto 15rem 4rem;
+}
+
+.grid-features-container {
+    display: grid;
+    max-width: 100%;
+    margin-top: 5rem;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+.icon {
+    width: 6.4rem;
+    height: 6.4rem;
+    margin-bottom: 1.2rem;
+}
+
+.grid {
+    width: 34rem;
+    margin-bottom: 8rem;
+}
+
+.features-subtitle {
+    margin-bottom: 2rem;
+}
+
+.features-text {
+    font-size: 1.8rem;
+    line-height: 1.5;
+    font-weight: 500;
+}

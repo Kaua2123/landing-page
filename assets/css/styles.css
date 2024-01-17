@@ -16,7 +16,7 @@ html {
 
 body {
     background: rgb(35,38,56);
-    background: linear-gradient(90deg, #121a24 4%, rgba(2,2,8,1) 35%);
+    background: linear-gradient(90deg, var(--black-color) 4%, rgba(2,2,8,1) 35%);
     font-family: sans-serif;
     font-size: 2rem;
     color: var(--gray-color);
@@ -37,6 +37,14 @@ h1 {
     font-size: 5rem;
 }
 
+h3 {
+    font-family: sans-serif;
+}
+
+p {
+
+}
+
 .section {
     min-height: 100vh;
 }
@@ -46,7 +54,7 @@ h1 {
     margin: 0 auto;
 }
 
-.grid-container {
+.grid-intro-container {
     min-height: 100vh;
     display: grid;
     grid-template-columns: 2fr 1fr;
