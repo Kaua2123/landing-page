@@ -156,5 +156,6 @@ h3 {
 
     .flex-footer {
         justify-content: center;
+        align-items: center;
     }
 }
