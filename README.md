@@ -4,6 +4,8 @@ Neste projeto, viso replicar um layout de landing page fornecido pelo website cr
 
 https://preview.cruip.com/laurel/ link para o template
 
+https://gorgeous-sopapillas-07e3aa.netlify.app/ link para a landing page hospedada
+
 desktop: 
 
 ![Screenshot_391](https://github.com/Kaua2123/landing-page/assets/102362421/3f73a39b-21fa-4f5a-b109-8637f5cd2936)
