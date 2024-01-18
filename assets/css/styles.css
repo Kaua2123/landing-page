@@ -86,6 +86,10 @@ h3 {
 
 @media (max-width: 800px) {
 
+    body {
+        overflow-x: hidden;
+    }
+
     .intro-text-content {
         margin: 8rem auto;
     }
