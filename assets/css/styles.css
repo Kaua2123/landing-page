@@ -118,7 +118,7 @@ h3 {
         align-items: center;
     }
 
-    .input-contact {
+    /* .input-contact {
         width: 30rem;
         margin-top: 2rem;
     }
@@ -142,8 +142,8 @@ h3 {
 
     .meet-us-title, .meet-us-text, .meet-us-secondary-text {
         text-align: center;
-    }
-/* 
+    } */
+
     .footer-text {
         text-align: center;
     }
@@ -173,5 +173,5 @@ h3 {
     .icon-video {
         width: 1rem;
         height: 1rem;
-    } */
+    }
 }
