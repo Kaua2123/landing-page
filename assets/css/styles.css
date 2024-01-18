@@ -118,32 +118,11 @@ h3 {
         align-items: center;
     }
 
-    /* .input-contact {
+    .input-contact {
         width: 30rem;
-        margin-top: 2rem;
     }
     
-    .meet-us-text-content {
-        margin: 8rem auto;
-    }
-
-    .flex {
-        margin: 8rem auto;
-    }
-
-    .meet-us-contact {
-        display: flex;
-        flex-flow: column wrap;
-        justify-content: center;
-        align-items: center;
-        width: 40rem;
-        margin: 4rem auto;
-    }
-
-    .meet-us-title, .meet-us-text, .meet-us-secondary-text {
-        text-align: center;
-    } */
-
+    
     .footer-text {
         text-align: center;
     }
