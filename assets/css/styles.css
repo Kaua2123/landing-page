@@ -89,6 +89,9 @@ h3 {
     body {
         overflow-x: hidden;
     }
+    .section {
+        max-width: 100%;
+    }
 
     .intro-text-content {
         margin: 8rem auto;
