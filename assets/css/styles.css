@@ -61,6 +61,7 @@ h3 {
 
 .section {
     min-height: 100vh;
+
 }
 
 .main-content {
@@ -98,7 +99,7 @@ h3 {
         flex-flow: column wrap;
         justify-content: center;
         align-items: center;
-        width: 40rem;
+        width: 30rem;
         margin: 0.8rem auto;
     }
 
